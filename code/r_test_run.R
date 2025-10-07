@@ -1,3 +1,5 @@
+install.packages(c("arrow","ggplot2"))
+
 dir.create("outputs/tables", recursive=TRUE, showWarnings=FALSE)
 dir.create("outputs/figures", recursive=TRUE, showWarnings=FALSE)
 
